@@ -5,8 +5,8 @@
 <!-- Banner de Imágenes -->
 <div align="center">
   <img src="descarga.jpg" width="32%" style="border-radius: 15px; margin-right: 5px;" alt="Banner 1" />
-  <img src="descarga (1).jpg" width="32%" style="border-radius: 15px; margin-right: 5px;" alt="Banner 2" />
-  <img src="analógico horror.jpg" width="32%" style="border-radius: 15px;" alt="Banner 3" />
+  <img src="descarga_1.jpg" width="32%" style="border-radius: 15px; margin-right: 5px;" alt="Banner 2" />
+  <img src="analogico_horror.jpg" width="32%" style="border-radius: 15px;" alt="Banner 3" />
 </div>
 
 <br/>
