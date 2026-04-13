@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="ojo.gif" width="100%" alt="Illuminati Eye" />
+<img src="ojo.gif" width="100%" alt="Illuminati Eye" style="border-radius: 20px; box-shadow: 0px 4px 20px 5px rgba(218, 165, 32, 0.4);" />
 
 <br><br>
 
